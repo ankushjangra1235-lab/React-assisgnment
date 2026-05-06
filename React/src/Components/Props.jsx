@@ -5,7 +5,7 @@ function Welcome(props) {
 function App() {
   return (
     <div>
-      <Welcome name="Jay" />
+      <Welcome name="ankush" />
       <Welcome name="Student" />
     </div>
   );
